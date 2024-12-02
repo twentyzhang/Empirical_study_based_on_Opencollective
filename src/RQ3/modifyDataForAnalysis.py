@@ -35,4 +35,4 @@ merged_data_wide['Commit_log'] = (merged_data_wide['commit'] + 0.5).apply(np.log
 merged_data_wide['Issue_log'] = (merged_data_wide['issue'] + 0.5).apply(np.log)
 merged_data_wide['Spend_log'] = (merged_data_wide['spend'] + 0.5).apply(np.log)
 print(merged_data_wide)
-merged_data_wide.to_csv('../data/modelRegression/baseDatas/regression_data_base.csv', index=False)
+merged_data_wide.to_csv('../../data/RQ3/regression_data_base.csv', index=False)
