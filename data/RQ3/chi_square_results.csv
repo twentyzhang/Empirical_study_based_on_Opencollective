@@ -1,0 +1,17 @@
+"Model","FixedEffect","Chisq","p_value"
+"release_model","amounts",18.2789885936982,1.9080009222755e-05
+"release_model","index",0.172221760871253,0.678144760019391
+"release_model","Intervention",9.80270809854574,0.0017425507023474
+"release_model","Time_after_intervention",1.37225582072824,0.241424680347612
+"commit_model","amounts",367.807919580977,5.616706648392e-82
+"commit_model","index",0.81455452368391,0.366777121255579
+"commit_model","Intervention",24.0703499515585,9.28794706612982e-07
+"commit_model","Time_after_intervention",9.55905914053437,0.00198965059292658
+"discussion_model","amounts",15.8156499437912,6.98225957722182e-05
+"discussion_model","index",1.15253218751923,0.283019700826821
+"discussion_model","Intervention",4.81634767377068,0.0281910193027828
+"discussion_model","Time_after_intervention",11.8714833063025,0.000569999971208515
+"pull_model","amounts",209.326257346303,1.92689679421066e-47
+"pull_model","index",0.232833043537539,0.629431079897822
+"pull_model","Intervention",1.06379015398852,0.302352327824747
+"pull_model","Time_after_intervention",1.66952055469301,0.196322764509603
