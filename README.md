@@ -1,4 +1,4 @@
-# Empirical Study Based on OpenCollective
+# Studying the Effectiveness of Social Media on Open Source Donation Platforms: An Empirical Study
 
 This repository contains the code and data for an empirical study examining open-source projects on the OpenCollective platform. The study analyzes various factors that influence the sustainability and funding of open-source projects, with a focus on the relationship between project activity and external sponsorship. The project is structured as follows:
 
